@@ -1,5 +1,7 @@
 # Grade-Manager
 
+The program stores grade points and performs a variety of calculations. It can calculate average, find maximum/minimum value, display, store, and change grades. 
+
 To run the program: 
 
     1. First compile driver.java in terminal 
