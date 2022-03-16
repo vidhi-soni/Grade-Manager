@@ -1,6 +1,5 @@
-/*  CPSC 233 
+/*  
 The Manager class contains all methods used for calculations and storage of grades 
-Limitation: The array can only contain a maximum of 40 elements.
 */ 
 
 import java.util.Random;
