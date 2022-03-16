@@ -1,7 +1,5 @@
 /*  
 The UserInterface class creates main menu and takes in user input to acess certain features 
-The user is limited to using strings for cases, if they use something else like a number 
- the program will continue to ask for chracters 
 */
 
 import java.util.Scanner;
